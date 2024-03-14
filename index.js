@@ -23,7 +23,7 @@ client.on('message', async (message) => {
 
 client.on('message', async (message) => {
     if (message.body === '!criador') {
-        await message.reply('Fui criado por Gabriel(TryPr0x)');
+        await message.reply('Fui criado por TryPr0x');
     }
 });
 
